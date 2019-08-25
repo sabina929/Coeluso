@@ -395,7 +395,7 @@ main {
     margin-right: 360px;
 }
 
-
+/* 
 .opinion1 {
     border: 1px solid rgb(228, 155, 10);
 }
@@ -410,7 +410,7 @@ main {
 
 .opinion4 {
     border: 1px solid rgb(10, 228, 75);
-}
+} */
 
 
 @keyframes moveToLeftOne {
